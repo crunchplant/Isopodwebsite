@@ -1,3 +1,21 @@
 body {
     background-color: rgb(226, 226, 245);
 }
+h1 {
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(29, 37, 44);
+}
+img {
+    padding: 10px;
+    background-color: rgb(191, 191, 194);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+p {
+    text-align: center;
+}
